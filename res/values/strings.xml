@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USAToday Movie Review</string>
+    <string name="title_moviereview_detail">Movie Review Detail</string>
+
+</resources>
